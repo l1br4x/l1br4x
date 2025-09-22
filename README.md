@@ -28,3 +28,6 @@
 💼 &nbsp;I am readily available for consultations and freelance opportunities.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✉️ &nbsp;You can shoot me an email at ivandelfino103@gmail.com! I'll try to respond as soon as I can.\
+
+## 🛠 &nbsp;Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py,html,css,js,ts,react,mysql,git,github,vscode,visualstudio,figma,ps,discord)](https://skillicons.dev)
