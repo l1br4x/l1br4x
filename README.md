@@ -11,10 +11,14 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
+
 @@programming student.@@
+
 + living in Buenos Aires, Argentina.
 - 21 years old
 ! software developer
+
+
 ```
 <br>
 <br>
